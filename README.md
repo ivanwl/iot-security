@@ -1,2 +1,3 @@
 # iot-security
-Security System made with Arduino Uno and ESP8266 Spark Thing Dev
+ESP8266 Spark Thing Dev config
+Flash Size: 512K (128K SPIFFS)
